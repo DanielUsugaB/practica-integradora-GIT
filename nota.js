@@ -1,0 +1,1 @@
+let nota = 'Hello world'
